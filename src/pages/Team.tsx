@@ -49,7 +49,7 @@ const Team = () => {
   return (
     <>
       <Helmet>
-        <title>Unser Team | Ameri Stars Barbershop Wien</title>
+        <title>Unser Team | Wazir Barbershop Wien</title>
         <meta 
           name="description" 
           content="Lernen Sie unser Team erfahrener Barber kennen. Professionelle Friseure mit Leidenschaft für klassische Handwerkskunst im The Gentleman's Cut Berlin." 
