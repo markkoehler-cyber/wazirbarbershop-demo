@@ -10,7 +10,7 @@ const Contact = () => {
   return (
     <>
       <Helmet>
-        <title>Kontakt & Termin | Ameri Stars Barbershop Wien</title>
+        <title>Kontakt & Termin | Wazir Barbershop Wien</title>
         <meta 
           name="description" 
           content="Kontaktieren Sie The Gentleman's Cut in Berlin. Vereinbaren Sie Ihren Termin über unseren Chatbot oder rufen Sie uns an. Mo-Fr 09-20 Uhr, Sa 10-18 Uhr." 
