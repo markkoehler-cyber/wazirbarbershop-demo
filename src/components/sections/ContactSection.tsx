@@ -55,7 +55,7 @@ export const ContactSection = () => {
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Adresse</h4>
                     <p className="text-muted-foreground">
-                      Franzensbrückenstraße 4, 1020 Wien
+                      Porzellangasse 12, 1090 Wien
                     </p>
                   </div>
                 </div>
@@ -67,10 +67,10 @@ export const ContactSection = () => {
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Telefon</h4>
                     <a
-                      href="tel:+436766932020"
+                      href="tel:+066565209033"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      +43 676 6932020
+                      +066565209033
                     </a>
                   </div>
                 </div>
@@ -82,7 +82,7 @@ export const ContactSection = () => {
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Öffnungszeiten</h4>
                     <p className="text-muted-foreground">
-                      Mo–Sa: 09:00 – 19:00 | So: Geschlossen
+                      Mo–Fr: 09:00 – 19:00 | Sa: 09:00 – 18:00
                     </p>
                   </div>
                 </div>
@@ -106,13 +106,15 @@ export const ContactSection = () => {
             <div className="relative">
               <div className="aspect-square lg:aspect-[4/5] overflow-hidden rounded-sm border border-border">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.432265717617!2d16.388591436005832!3d48.217550431675626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07c25a10e2c3%3A0x3d237ca29cf37f49!2sBarber%20Ameri%20Stars!5e0!3m2!1sde!2sat!4v1768502124634!5m2!1sde!2sat"
-                  className="w-full h-full"
-                  style={{ border: 0 }}
-                  allowFullScreen
-                  loading="lazy"
-                  referrerPolicy="no-referrer-when-downgrade"
-                />
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4385.53419045243!2d16.357676886047663!3d48.219160174983244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07fcae3cb2db%3A0xc5c6e3381aaeb6b9!2sWAZIR%20Barbershop!5e0!3m2!1sde!2sat!4v1768679755130!5m2!1sde!2sat"
+  width="600"
+  height="450"
+  style={{ border: 0 }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+/>
+
               </div>
 
               {/* Overlay Card */}
