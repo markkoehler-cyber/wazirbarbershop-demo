@@ -24,7 +24,7 @@ export const Footer = () => {
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Premium Barbershop für den modernen Gentleman. 
-              Tradition trifft auf zeitgemäßen Stil seit 2017.
+              Tradition trifft auf zeitgemäßen Stil seit 2024.
             </p>
             <div className="flex gap-4">
               <a 
