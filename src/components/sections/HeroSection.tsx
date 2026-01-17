@@ -32,7 +32,7 @@ export const HeroSection = () => {
             className="text-primary uppercase tracking-[0.4em] text-sm md:text-base font-medium opacity-0 animate-fade-up"
             style={{ animationDelay: '200ms', animationFillMode: 'forwards' }}
           >
-            Premium Barbershop seit 2017
+            Premium Barbershop seit 2024
           </p>
 
           {/* Main Headline */}
@@ -40,7 +40,7 @@ export const HeroSection = () => {
             className="font-display text-5xl md:text-7xl lg:text-8xl font-bold text-foreground leading-tight opacity-0 animate-fade-up"
             style={{ animationDelay: '400ms', animationFillMode: 'forwards' }}
           >
-            Ameri Stars
+            WAZIR
             <span className="block text-gradient">Barbershop</span>
           </h1>
 
