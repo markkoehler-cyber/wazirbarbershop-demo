@@ -12,7 +12,7 @@ const Index = () => {
     <>
       <Helmet>
         {/* Titel & Meta Description */}
-        <title>Barbershop 1020 Wien | Wazir Barbershop Wien</title>
+        <title>Barbershop 1090 Wien | Wazir Barbershop Wien</title>
         <meta
           name="description"
           content="Besuche unseren Premium Barbershop The Gentleman's Cut in Berlin Prenzlauer Berg für erstklassige Haarschnitte, Bartpflege und individuelle Styles. Jetzt Termin buchen!"
@@ -24,7 +24,7 @@ const Index = () => {
         <link rel="canonical" href="https://gentlemanscut.de" />
 
         {/* Open Graph */}
-        <meta property="og:title" content="The Gentleman's Cut | Premium Barbershop Berlin" />
+        <meta property="og:title" content="Wazir Barbershop | Premium Barbershop Wien" />
         <meta
           property="og:description"
           content="Erstklassige Haarschnitte und Bartpflege für den modernen Gentleman in Berlin Prenzlauer Berg."
@@ -35,7 +35,7 @@ const Index = () => {
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="The Gentleman's Cut | Premium Barbershop Berlin" />
+        <meta name="twitter:title" content="Wazir Barbershop | Premium Barbershop Wien" />
         <meta
           name="twitter:description"
           content="Erleben Sie erstklassige Haarschnitte und Bartpflege für den modernen Gentleman."
