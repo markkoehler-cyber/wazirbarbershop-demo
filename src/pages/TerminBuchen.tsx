@@ -150,7 +150,7 @@ const TerminBuchen = () => {
   return (
     <>
       <Helmet>
-        <title>Termin buchen | Ameri Stars Barbershop Wien</title>
+        <title>Termin buchen | Wazir Barbershop Wien</title>
         <meta 
           name="description" 
           content="Buchen Sie jetzt Ihren Termin bei The Gentleman's Cut Berlin." 
