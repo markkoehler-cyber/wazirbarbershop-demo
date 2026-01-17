@@ -101,7 +101,7 @@ const Impressum = () => {
                   <div>
                     <h3 className="text-lg font-semibold text-foreground mb-2">Betreiber der Website</h3>
                     <p>
-                      Ameri Stars Barbershop<br />
+                      Wazir Barbershop<br />
                       Nicolas Sulyok
                     </p>
                   </div>
@@ -109,8 +109,8 @@ const Impressum = () => {
                   <div>
                     <h3 className="text-lg font-semibold text-foreground mb-2">Adresse</h3>
                     <p>
-                      Franzensbrückenstraße 4<br />
-                      1020 Wien<br />
+                      Porzellangasse 12<br />
+                      1090 Wien<br />
                       Österreich
                     </p>
                   </div>
@@ -118,8 +118,8 @@ const Impressum = () => {
                   <div>
                     <h3 className="text-lg font-semibold text-foreground mb-2">Kontakt</h3>
                     <p>
-                      Telefon: <a href="tel:+0676 6932020" className="text-primary hover:underline">+0676 6932020</a><br />
-                      E-Mail: <a href="mailto:ameristars204@gmail.com" className="text-primary hover:underline">ameristars204@gmail.com</a>
+                      Telefon: <a href="tel:+066565209033" className="text-primary hover:underline">+066565209033</a><br />
+                      E-Mail: <a href="mailto:wazirbarbershop@gmail.com" className="text-primary hover:underline">wazirbarbershop@gmail.com</a>
                     </p>
                   </div>
 
