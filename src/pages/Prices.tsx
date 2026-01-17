@@ -99,7 +99,7 @@ const Prices = () => {
   return (
     <>
       <Helmet>
-        <title>Preise | Ameri Stars Barbershop Wien</title>
+        <title>Preise | Wazir Barbershop Wien</title>
         <meta
           name="description"
           content="Transparente Preise für alle Services: Haarschnitte ab €35, Bartpflege ab €15. Entdecken Sie unsere Pakete im The Gentleman's Cut Berlin."
