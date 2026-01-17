@@ -41,7 +41,7 @@ const Gallery = () => {
   return (
     <>
       <Helmet>
-        <title>Galerie | Ameri Stars Barbershop Wien</title>
+        <title>Galerie | Wazir Barbershop Wien</title>
         <meta 
           name="description" 
           content="Entdecken Sie unsere Galerie: Impressionen aus unserem Premium Barbershop in Berlin. Haarschnitte, Bartpflege und stilvolles Ambiente." 
