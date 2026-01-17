@@ -107,7 +107,7 @@ const TerminVerfuegbarkeit = () => {
   return (
     <>
       <Helmet>
-        <title>Terminverfügbarkeit prüfen | Ameri Stars Barbershop Wien</title>
+        <title>Terminverfügbarkeit prüfen | Wazir Barbershop Wien</title>
         <meta 
           name="description" 
           content="Prüfen Sie die Verfügbarkeit Ihres Wunschtermins bei The Gentleman's Cut Berlin." 
