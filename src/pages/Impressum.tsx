@@ -9,7 +9,7 @@ const Impressum = () => {
   return (
     <>
       <Helmet>
-        <title>Impressum | Ameri Stars Barbershop Wien</title>
+        <title>Impressum | Wazir Barbershop Wien</title>
         <meta 
           name="description" 
           content="Impressum von Barbershop Mustername in Wien. Rechtliche Informationen und Kontaktdaten gemäß § 5 ECG." 
