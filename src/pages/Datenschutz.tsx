@@ -9,7 +9,7 @@ const Datenschutz = () => {
   return (
     <>
       <Helmet>
-        <title>Datenschutz | Ameri Stars Barbershop Wien</title>
+        <title>Datenschutz | Wazir Barbershop Wien</title>
         <meta 
           name="description" 
           content="Datenschutzerklärung von Barbershop Mustername in Wien. Informationen zum Umgang mit Ihren personenbezogenen Daten gemäß DSGVO." 
