@@ -7,49 +7,50 @@ import { Scissors, Droplets, Sparkles, Crown, Palette, Wind, ChevronRight } from
 import { Button } from '@/components/ui/button';
 
 const services = [
-   {
+  {
     icon: Scissors,
-    title: 'Schneiden und Waschen',
-    description: 'Präzise geschnittene Frisuren, inkl. Styling mit Wachs oder Gel.',
-    price: 'ab €18',
-    duration: '20 Min',
+    title: 'Haarschnitt',
+    description: 'Klassischer Herrenhaarschnitt präzise und sauber ausgeführt.',
+    price: '17 €',
+    duration: '25 Min',
   },
   {
     icon: Droplets,
-    title: 'Bartrasur',
-    description: 'Professionelle Bartpflege mit traditioneller Nassrasur.',
-    price: 'ab €10',
-    duration: '15 Min',
-  },
-  {
-    icon: Palette,
-    title: 'Haar färben',
-    description: 'Individuelle Stilberatung und professionelles Färben für jeden Anlass.',
-    price: 'ab €20',
-    duration: '50 Min',
-  },
-  {
-    icon: Sparkles,
-    title: 'Gesicht Behandlung',
-    description: 'Therapie für Ihr Gesicht: Fühlen Sie sich wie ein neuer Mensch',
-    price: 'ab €25',
+    title: 'Schneiden & Waschen',
+    description: 'Haarschnitt inklusive Waschen für ein frisches, gepflegtes Ergebnis.',
+    price: '20 €',
     duration: '30 Min',
   },
   {
-    icon: Crown,
-    title: 'VIP Service',
-    description: 'Das Rundum-Erlebnis: Schneiden, Föhnen, Styling und Waschen.',
-    price: 'ab €45',
-    duration: '60 Min',
+    icon: Wind,
+    title: 'Maschinenhaarschnitt',
+    description: 'Schneller und gleichmäßiger Schnitt mit der Maschine.',
+    price: '15 €',
+    duration: '20 Min',
   },
   {
-    icon: Wind,
-    title: 'Augenbrauen Zupfen',
-    description: 'Individuelle Stilberatung und professionelles Finish. Ideal für besondere Anlässe oder wenn Sie einen neuen Look ausprobieren möchten.',
-    price: 'ab €5',
-    duration: '5 Min',
+    icon: Sparkles,
+    title: 'Komplett Service',
+    description: 'Schneiden, Waschen und Styling – alles in einem Service.',
+    price: '35 €',
+    duration: '40 Min',
+  },
+  {
+    icon: Droplets,
+    title: 'Komplett Rasur',
+    description: 'Gründliche Rasur für ein sauberes und glattes Hautgefühl.',
+    price: '10 €',
+    duration: '15 Min',
+  },
+  {
+    icon: Crown,
+    title: 'Wazir Paket',
+    description: 'Premium-Komplettpaket für maximale Pflege und perfekten Look.',
+    price: '45 €',
+    duration: '60 Min',
   },
 ];
+
 
 const Services = () => {
   return (
