@@ -106,14 +106,16 @@ export const ContactSection = () => {
             <div className="relative">
               <div className="aspect-square lg:aspect-[4/5] overflow-hidden rounded-sm border border-border">
                 <iframe
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4385.53419045243!2d16.357676886047663!3d48.219160174983244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07fcae3cb2db%3A0xc5c6e3381aaeb6b9!2sWAZIR%20Barbershop!5e0!3m2!1sde!2sat!4v1768679755130!5m2!1sde!2sat"
-  width="600"
-  height="450"
-  style={{ border: 0 }}
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5316.663658169617!2d16.357168932493465!3d48.21948463682236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07fcae3cb2db%3A0xc5c6e3381aaeb6b9!2sWAZIR%20Barbershop!5e0!3m2!1sde!2sat!4v1768680389865!5m2!1sde!2sat"
+  width="100%"
+  height="100%"
+  style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
   allowFullScreen
   loading="lazy"
   referrerPolicy="no-referrer-when-downgrade"
+  title="Standort WAZIR Barbershop"
 />
+
 
               </div>
 
