@@ -7,76 +7,92 @@ import { ChevronRight } from 'lucide-react';
 
 const priceCategories = [
   {
-    title: 'Herren – Haarschnitte & Bartpflege',
+    title: 'Herren – Haarschnitte & Stylings',
     items: [
       {
-        name: 'Waschen & Schneiden (20 Min.)',
-        price: '18,00 €',
-        description: 'Gründliches Waschen und präziser Schnitt für einen gepflegten Look.',
+        name: 'Haarschnitt',
+        price: '17,00 €',
+        description: 'Klassischer Herrenhaarschnitt präzise und sauber ausgeführt.',
       },
       {
-        name: 'Bart rasieren (15 Min.)',
-        price: '10,00 €',
-        description: 'Saubere Rasur für einen gepflegten, maskulinen Bart.',
+        name: 'Moderasur',
+        price: '13,00 €',
+        description: 'Moderner Schnitt für einen frischen, zeitgemäßen Look.',
       },
       {
-        name: 'Kopf rasieren (20 Min.)',
-        price: '15,00 €',
-        description: 'Professionelle Kopfrasur für glatte und gepflegte Ergebnisse.',
-      },
-      {
-        name: 'Komplett Service (40 Min.)',
-        price: '35,00 €',
-        description: 'Rundum-Pflege: Waschen, Schneiden und Stylen für perfekten Look.',
-      },
-      {
-        name: 'VIP Service (1 Std.)',
-        price: '45,00 €',
-        description: 'Exklusive Pflege inklusive Schnitt, Styling und Bartpflege.',
-      },
-    ],
-  },
-  {
-    title: 'Farbe, Waxing & Gesicht',
-    items: [
-      {
-        name: 'Bart färben (20 Min.)',
-        price: '10,00 €',
-        description: 'Farbauffrischung für einen gleichmäßigen und gepflegten Bart.',
-      },
-      {
-        name: 'Haare färben (50 Min.)',
+        name: 'Schneiden & Waschen',
         price: '20,00 €',
-        description: 'Professionelle Farbauffrischung für einen natürlichen Look.',
+        description: 'Haarschnitt inklusive Waschen für ein gepflegtes Ergebnis.',
       },
       {
-        name: 'Gesicht Behandlung (30 Min.)',
-        price: '25,00 €',
-        description: 'Pflegende Behandlung für gesunde, strahlende Haut.',
+        name: 'Schneiden, Waschen, Föhnen & Stylen',
+        price: '23,00 €',
+        description: 'Komplett-Styling inklusive Föhnen und Finish.',
       },
       {
-        name: 'Waxing - Gesicht (10 Min.)',
-        price: '10,00 €',
-        description: 'Sanfte Haarentfernung für ein glattes und gepflegtes Gesicht.',
-      },
-      {
-        name: 'Augenbrauen zupfen (5 Min.)',
-        price: '5,00 €',
-        description: 'Präzises Zupfen für klare Konturen und gepflegtes Erscheinungsbild.',
+        name: 'Waschen, Föhnen & Stylen',
+        price: '8,00 €',
+        description: 'Schnelles Auffrischen mit Waschen, Föhnen und Styling.',
       },
     ],
   },
   {
-    title: 'Kinder – Haarschnitte & Stylings',
+    title: 'Bart, Rasur & Pflege',
     items: [
       {
-        name: 'Kinder - Haarschnitt (20 Min.)',
+        name: 'Komplett Rasur',
         price: '10,00 €',
-        description: 'Sanfter Schnitt für Kinder, bequem und professionell ausgeführt.',
+        description: 'Gründliche Rasur für ein sauberes und glattes Hautgefühl.',
+      },
+      {
+        name: 'Moderasur mit Dampf',
+        price: '15,00 €',
+        description: 'Rasur mit warmer Dampfanwendung für extra Pflege.',
+      },
+      {
+        name: 'Bart trimmen',
+        price: '5,00 €',
+        description: 'Sauberes Trimmen für einen gepflegten Bart.',
+      },
+      {
+        name: 'Augenbrauen',
+        price: '5,00 €',
+        description: 'Präzises Zupfen für klare Konturen.',
+      },
+      {
+        name: 'Kopfrasur',
+        price: '15,00 €',
+        description: 'Glatte und gleichmäßige Rasur des gesamten Kopfes.',
+      },
+    ],
+  },
+  {
+    title: 'Pakete & Spezialservices',
+    items: [
+      {
+        name: 'Komplett Service',
+        price: '35,00 €',
+        description: 'Schneiden, Waschen und Styling – alles in einem Service.',
+      },
+      {
+        name: 'Wazir Paket',
+        price: '45,00 €',
+        description: 'Premium-Komplettpaket für den perfekten Look.',
+      },
+      {
+        name: 'Maschinenhaarschnitt',
+        price: '15,00 €',
+        description: 'Schneller und gleichmäßiger Haarschnitt mit der Maschine.',
+      },
+      {
+        name: 'Jungen (bis 10 Jahre)',
+        price: '13,00 €',
+        description: 'Kinderhaarschnitt – sanft, schnell und professionell.',
       },
     ],
   },
 ];
+
 
 
 const Prices = () => {
