@@ -181,8 +181,8 @@ const Contact = () => {
                         <h3 className="font-semibold text-foreground mb-1">Adresse</h3>
                         <p className="text-muted-foreground">
                           
-                          Franzensbrückenstraße 4<br />
-                          1020 Wien
+                          Porzellangasse 12<br />
+                          1090 Wien
                         </p>
                       </div>
                     </div>
@@ -194,10 +194,10 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Telefon</h3>
                         <a 
-                          href="tel:+0676 6932020" 
+                          href="tel:+066565209033" 
                           className="text-muted-foreground hover:text-primary transition-colors"
                         >
-                          +0676 6932020
+                          +066565209033
                         </a>
                       </div>
                     </div>
@@ -209,10 +209,10 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">E-Mail</h3>
                         <a 
-                          href="mailto:ameristars204@gmail.com" 
+                          href="mailto:wazirbarbershop@gmail.com" 
                           className="text-muted-foreground hover:text-primary transition-colors"
                         >
-                          ameristars204@gmail.com
+                          wazirbarbershop@gmail.com
                         </a>
                       </div>
                     </div>
@@ -225,7 +225,7 @@ const Contact = () => {
                         <h3 className="font-semibold text-foreground mb-1">Öffnungszeiten</h3>
                         <ul className="text-muted-foreground space-y-1 text-sm">
                           <li>Mo - Fr: 09:00 - 19:00</li>
-                          <li>Samstag: 09:00 - 19:00</li>
+                          <li>Samstag: 09:00 - 18:00</li>
                           <li>Sonntag: Geschlossen</li>
                         </ul>
                       </div>
@@ -234,14 +234,15 @@ const Contact = () => {
 
                    <div className="aspect-square lg:aspect-[4/5] overflow-hidden rounded-sm border border-border">
       <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.432265717617!2d16.388591436005832!3d48.217550431675626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07c25a10e2c3%3A0x3d237ca29cf37f49!2sBarber%20Ameri%20Stars!5e0!3m2!1sde!2sat!4v1768502124634!5m2!1sde!2sat"
-        className="w-full h-full"
-        style={{ border: 0 }}
-        allowFullScreen
-        loading="lazy"
-        referrerPolicy="no-referrer-when-downgrade"
-        title="Standort Ameri Stars"
-  />
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5316.663658169617!2d16.357168932493465!3d48.21948463682236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07fcae3cb2db%3A0xc5c6e3381aaeb6b9!2sWAZIR%20Barbershop!5e0!3m2!1sde!2sat!4v1768680389865!5m2!1sde!2sat"
+  width="100%"
+  height="100%"
+  style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+  title="Standort WAZIR Barbershop"
+/>
 </div>
 
                 </div>
