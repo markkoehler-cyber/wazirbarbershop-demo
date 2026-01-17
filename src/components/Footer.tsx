@@ -15,10 +15,10 @@ export const Footer = () => {
               <Scissors className="w-8 h-8 text-primary transition-transform duration-300 group-hover:rotate-45" />
               <div className="flex flex-col">
                 <span className="font-display text-xl font-bold text-foreground tracking-wide">
-                  Ameri Stars
+                  Wazir
                 </span>
                 <span className="text-primary text-sm tracking-[0.3em] uppercase -mt-1">
-                  Barber
+                  Barbershop
                 </span>
               </div>
             </Link>
@@ -28,7 +28,7 @@ export const Footer = () => {
             </p>
             <div className="flex gap-4">
               <a 
-                href="https://www.instagram.com/ameri_stars/" 
+                href="https://www.instagram.com/wazir_barbershop/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:border-primary hover:text-primary transition-all duration-300"
@@ -37,7 +37,7 @@ export const Footer = () => {
                 <Instagram className="w-5 h-5" />
               </a>
               <a 
-                href="https://www.facebook.com/ameri_stars" 
+                href="https://www.facebook.com/profile.php?id=61557891711535" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:border-primary hover:text-primary transition-all duration-300"
@@ -86,7 +86,7 @@ export const Footer = () => {
               </li>
               <li className="flex justify-between text-muted-foreground">
                 <span>Samstag</span>
-                <span className="text-foreground">09:00 - 19:00</span>
+                <span className="text-foreground">09:00 - 18:00</span>
               </li>
               <li className="flex justify-between text-muted-foreground">
                 <span>Sonntag</span>
@@ -104,26 +104,26 @@ export const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary shrink-0 mt-0.5" />
                 <span className="text-muted-foreground text-sm">
-                  Franzensbrückenstraße 4<br />
-                  1020 Wien, Österreich
+                  Porzellangasse 12<br />
+                  1090 Wien, Österreich
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-primary shrink-0" />
                 <a 
-                  href="tel:+0676 6932020" 
+                  href="tel:+066565209033" 
                   className="text-muted-foreground hover:text-primary transition-colors text-sm"
                 >
-                  +0676 6932020
+                  +066565209033
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary shrink-0" />
                 <a 
-                  href="mailto:ameristars204@gmail.com" 
+                  href="mailto:wazirbarbershop@gmail.com" 
                   className="text-muted-foreground hover:text-primary transition-colors text-sm"
                 >
-                  ameristars204@gmail.com
+                  wazirbarbershop@gmail.com
                 </a>
               </li>
             </ul>
@@ -135,7 +135,7 @@ export const Footer = () => {
       <div className="border-t border-border">
         <div className="container mx-auto px-4 py-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © {currentYear} Ameri Stars Barber. Alle Rechte vorbehalten.
+            © {currentYear} Wazir Barbershop. Alle Rechte vorbehalten.
           </p>
           <div className="flex gap-6 text-sm">
             <Link to="/impressum" className="text-muted-foreground hover:text-primary transition-colors">
