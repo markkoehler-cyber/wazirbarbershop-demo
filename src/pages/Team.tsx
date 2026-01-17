@@ -12,11 +12,11 @@ import teamThomas from '@/assets/images/team-thomas.jpg';
 
 const team = [
   {
-    name: 'Ali',
+    name: 'Hassan',
     role: 'Gründer & Master Barber',
     image: teamMarcus,
-    imageAlt: 'Portrait von Ali, Gründer und Master Barber mit über 15 Jahren Erfahrung',
-    bio: 'Mit über 15 Jahren Erfahrung ist Ali ein Meister seines Fachs. Seine Leidenschaft für klassische Handwerkskunst verbindet er mit modernen Techniken.',
+    imageAlt: 'Portrait von Hassan, Gründer und Master Barber mit über 15 Jahren Erfahrung',
+    bio: 'Mit über 15 Jahren Erfahrung ist Hassan ein Meister seines Fachs. Seine Leidenschaft für klassische Handwerkskunst verbindet er mit modernen Techniken.',
     instagram: '@marcus.thecut',
   },
   {
