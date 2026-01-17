@@ -56,7 +56,7 @@ const Services = () => {
   return (
     <>
       <Helmet>
-        <title>Unsere Services | Ameri Stars Barbershop Wien</title>
+        <title>Unsere Services | Wazir Barbershop Wien</title>
         <meta 
           name="description" 
           content="Entdecken Sie unsere Premium-Services: Klassische Haarschnitte, traditionelle Nassrasur, Bartpflege und mehr im The Gentleman's Cut Berlin." 
